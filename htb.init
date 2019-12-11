@@ -294,7 +294,7 @@
 #    selects traffic going to ports 20 and 21 on host 10.2.2.5
 #
 #  RULE=:25,10.2.2.128/26:5000
-#    selects traffic going from anywhere on port 50 to
+#    selects traffic going from anywhere on port 25 to
 #    port 5000 in network 10.2.2.128
 #
 #  RULE=10.5.5.5:80,
